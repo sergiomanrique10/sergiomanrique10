@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sergio Manrique
 
-## 🚀 Desarrollador Full Stack | Especialista en Soluciones Web Escalables
+## 🚀 Técnico Universitario en Programación | Desarrollador Full Stack
 
 > Transformando ideas en aplicaciones funcionales con React, Node.js y arquitecturas modernas
 
